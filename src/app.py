@@ -7,7 +7,7 @@ for extracurricular activities at Mergington High School.
 
 # Added activities:
 # Sports: Soccer Team, Basketball Club
-# Artistic: Drama Club, Art Workshop
+# Artistic: Drama Club,                                                                          Art Workshop
 # Intellectual: Math Olympiad, Science Club
 
 from fastapi import FastAPI, HTTPException
